@@ -1,4 +1,5 @@
-Sales & Marketing Performance Dashboard
+Sales & Marketing Performance Dashboard:
+
 End-to-end Power BI project featuring interactive dashboards, data modelling, DAX, KPI design and business intelligence across Sales, Marketing, Customers and Operations.
 
 📌 Project Overview
