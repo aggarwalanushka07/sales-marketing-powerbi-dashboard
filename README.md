@@ -1,20 +1,24 @@
-**Sales & Marketing Performance Dashboard:**
+**<h2> Sales & Marketing Performance Dashboard </h2>**
 
 End-to-end Power BI project featuring interactive dashboards, data modelling, DAX, KPI design and business intelligence across Sales, Marketing, Customers and Operations.
 
-**Project Overview**
+**<h3> Project Overview </h3>**
 
 This project analyzes the performance of a B2B distribution business across four connected areas: overall sales health, customer behavior, marketing effectiveness and operational fulfillment. It's built on a star schema data model with 6 fact tables and 6 dimension tables and includes 20+ custom DAX measures organized into logical, presentable groups.
 The goal was to go beyond just building charts — every visual on every page answers a specific business question and several genuine insights emerged from the data during the build (detailed below).
 
 Tools used: Power BI Desktop, DAX, Data Modeling (Star Schema)
 
-**Data Model:**
+<hr>
+
+**<h3>Data Model:</h3>**
 <img width="1171" height="706" alt="data model" src="https://github.com/user-attachments/assets/cf08aaff-bebd-4f6b-ba86-add0b541fda9" />
 
 The model connects 6 fact tables (`fact_sales`, `fact_inventory`, `fact_order_process`, `fact_promotion_coverage`, `fact_campaign_spend`, `fact_sales_targets`) to 6 dimension tables (`dim_customer`, `dim_product`, `dim_geo`, `dim_date`, `dim_campaign`, `dim_order_flag`) in a standard star schema (also can be considered as galaxy schema), connected through one-to-many relationships. Working with 6 fact tables meant the model could easily have become difficult to navigate. To keep it clean and query friendly, I organized every measure into display folders by business area (`customer`, `sales`, `targets`, `marketing`, `operations`) and made sure every relationship was considered.
 
-**📊Dashboard Pages**
+<hr>
+
+**<h3> 📊Dashboard Pages </h3>**
 
 **1. Executive Overview** *(with Interactive Demo)*
 
@@ -38,6 +42,8 @@ The Executive Overview dashboard provides senior management with a high level in
 - Understand which regions contribute the most revenue.
 - Monitor customer activity and order volume.
 - Prioritise products that drive the highest sales.
+
+<hr>
 
 **2. Sales & Customer Analysis** *(with Interactive Demo)*
 
@@ -63,6 +69,8 @@ This dashboard moves beyond overall performance to focus on *who* is actually dr
 - Support regional expansion and sales planning using customer concentration by city.
 - Track sales trends to identify growth opportunities and seasonal patterns.
 
+<hr>
+
 **3. Marketing Performance** *(with Interactive Demo)*
 
 <img width="2075" height="1200" alt="Enterprise Sales   Marketing Analytics Dashboard_page-0003" src="https://github.com/user-attachments/assets/dfd42e2d-756e-479c-8812-0b29a585cfe5" />
@@ -85,6 +93,8 @@ This dashboard connects marketing activity to business outcomes—not just how m
 - Identify campaigns worth repeating or scaling based on past performance.
 - Monitor cost efficiency (Cost per Order) to detect spend inefficiencies early.
 - Use CTR insights to evaluate campaign engagement and targeting effectiveness.
+
+<hr>
 
 **4. Inventory & Operations** *(with Interactive Demo)*
 
@@ -109,3 +119,26 @@ This dashboard shifts from revenue to reliability; tracking how efficiently orde
 - Support inventory planning and purchasing decisions at the category level.
 - Balance inventory levels with customer demand to improve stock availability.
 - Set realistic customer delivery expectations using historical delivery performance.
+
+<hr>
+
+**<h3>DAX Highlights</h3>**
+
+A sample of measures built for this project (see dax_measures.md for the full list, organized by page):
+
+- Sales vs Target % = DIVIDE([Total Sales], [Total Target Revenue])
+- ROAS = DIVIDE([total_sales], [total_spend])
+- sell_through_rate = DIVIDE([total_quantity_sold], [units_in_inventory])
+- sales_by_bill_region = CALCULATE( [total_sales], USERELATIONSHIP(fact_sales[bill_to_city_key], dim_geo[geo_key]))
+
+Measures are organized into display folders (customer, sales, targets, marketing, operations) inside the model for clarity and reusability.
+
+<hr>
+
+**<h3>Skills Demonstrated</h3>**
+- **Data Modelling:** Star schema design, fact & dimension tables, inactive relationships, `USERELATIONSHIP()`
+- **DAX:** KPI creation, aggregations, ratios, percentages, business calculations, context-aware measures
+- **Power BI:** Interactive dashboards, slicers, cross-filtering, KPI cards and clean report layouts
+- **Data Visualisation:** Choosing the right chart for the data, dashboard design and clear storytelling
+- **Problem Solving:** Fixed relationship and filter issues to make sure reports showed accurate numbers
+- **Business Intelligence:** Turned business needs into working dashboards for leadership, sales, marketing and operations
