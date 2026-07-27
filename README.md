@@ -142,3 +142,12 @@ Measures are organized into display folders (customer, sales, targets, marketing
 - **Data Visualisation:** Choosing the right chart for the data, dashboard design and clear storytelling
 - **Problem Solving:** Fixed relationship and filter issues to make sure reports showed accurate numbers
 - **Business Intelligence:** Turned business needs into working dashboards for leadership, sales, marketing and operations
+
+<hr>
+
+**<h3>Repository Contents</h3>**
+File	Description
+dashboard.pbix	Full Power BI file (interactive)
+dax_measures.md	Complete DAX reference, organized by page
+screenshots/	Static images of all 4 dashboard pages
+data_model_diagram.png	Star schema relationship diagram
