@@ -16,7 +16,7 @@ The model connects 6 fact tables (`fact_sales`, `fact_inventory`, `fact_order_pr
 
 **📊Dashboard Pages**
 
-**1. Executive Overview**
+**1. Executive Overview** **(with Interactive Demo)*
 
 https://github.com/user-attachments/assets/25721834-f7fd-4c48-9fdd-4026823d2d62
 
@@ -39,7 +39,7 @@ The Executive Overview dashboard provides senior management with a high level in
 - Monitor customer activity and order volume.
 - Prioritise products that drive the highest sales.
 
-**2. Sales & Customer Analysis**
+**2. Sales & Customer Analysis** **(with Interactive Demo)*
 
 <img width="2075" height="1200" alt="Enterprise Sales   Marketing Analytics Dashboard_page-0002" src="https://github.com/user-attachments/assets/76592250-d6da-4921-8237-cab4e840b90b" />
 
@@ -63,7 +63,7 @@ This dashboard moves beyond overall performance to focus on *who* is actually dr
 - Support regional expansion and sales planning using customer concentration by city.
 - Track sales trends to identify growth opportunities and seasonal patterns.
 
-**3. Marketing Performance**
+**3. Marketing Performance** **(with Interactive Demo)*
 
 <img width="2075" height="1200" alt="Enterprise Sales   Marketing Analytics Dashboard_page-0003" src="https://github.com/user-attachments/assets/dfd42e2d-756e-479c-8812-0b29a585cfe5" />
 
@@ -86,7 +86,7 @@ This dashboard connects marketing activity to business outcomes—not just how m
 - Monitor cost efficiency (Cost per Order) to detect spend inefficiencies early.
 - Use CTR insights to evaluate campaign engagement and targeting effectiveness.
 
-**4. Inventory & Operations**
+**4. Inventory & Operations** **(with Interactive Demo)*
 
 <img width="2075" height="1200" alt="Enterprise Sales   Marketing Analytics Dashboard_page-0004" src="https://github.com/user-attachments/assets/d1a627e3-04a0-46fc-b408-803f422c2e98" />
 
