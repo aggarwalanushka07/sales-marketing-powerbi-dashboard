@@ -146,8 +146,6 @@ Measures are organized into display folders (customer, sales, targets, marketing
 <hr>
 
 **<h3>Repository Contents</h3>**
-File	Description
-dashboard.pbix	Full Power BI file (interactive)
-dax_measures.md	Complete DAX reference, organized by page
-screenshots/	Static images of all 4 dashboard pages
-data_model_diagram.png	Star schema relationship diagram
+| `dashboard.pbix` | Full Power BI file (interactive) |
+| `dax_measures.md` | Complete DAX reference, organized by page |
+| `data_model_diagram.png` | Star schema relationship diagram |
