@@ -47,7 +47,7 @@ The Executive Overview dashboard provides senior management with a high level in
 
 **2. Sales & Customer Analysis** *(with Interactive Demo)*
 
-<img width="2075" height="1200" alt="Enterprise Sales   Marketing Analytics Dashboard_page-0002" src="https://github.com/user-attachments/assets/76592250-d6da-4921-8237-cab4e840b90b" />
+https://github.com/user-attachments/assets/65464a52-08f3-4232-a311-55eed2cab9af
 
 This dashboard moves beyond overall performance to focus on *who* is actually driving sales—customers, segments, account managers and geographic concentration—answering the questions a sales manager or director would ask next.
 
@@ -73,8 +73,7 @@ This dashboard moves beyond overall performance to focus on *who* is actually dr
 
 **3. Marketing Performance** *(with Interactive Demo)*
 
-<img width="2075" height="1200" alt="Enterprise Sales   Marketing Analytics Dashboard_page-0003" src="https://github.com/user-attachments/assets/dfd42e2d-756e-479c-8812-0b29a585cfe5" />
-
+https://github.com/user-attachments/assets/4cb6c8e6-c402-480f-8730-6c14bd8a6eea
 
 This dashboard connects marketing activity to business outcomes—not just how much was spent or how many people saw an ad but whether that investment translated into revenue, answering the questions a marketing lead would ask about efficiency and return.
 
@@ -98,7 +97,7 @@ This dashboard connects marketing activity to business outcomes—not just how m
 
 **4. Inventory & Operations** *(with Interactive Demo)*
 
-<img width="2075" height="1200" alt="Enterprise Sales   Marketing Analytics Dashboard_page-0004" src="https://github.com/user-attachments/assets/d1a627e3-04a0-46fc-b408-803f422c2e98" />
+https://github.com/user-attachments/assets/26f19661-9212-44be-ac4e-a35492520fca
 
 This dashboard shifts from revenue to reliability; tracking how efficiently orders move from purchase to delivery and whether inventory levels are aligned with actual demand, answering the questions an operations or supply chain lead would ask.
 
