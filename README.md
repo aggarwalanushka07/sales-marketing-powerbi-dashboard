@@ -22,8 +22,7 @@ The model connects 6 fact tables (`fact_sales`, `fact_inventory`, `fact_order_pr
 
 **1. Executive Overview** *(with Interactive Demo)*
 
-<video src="https://github.com/user-attachments/assets/25721834-f7fd-4c48-9fdd-4026823d2d62" controls width="100%">
-</video>
+https://github.com/user-attachments/assets/9d075de1-aa61-4560-8b55-cfc29bd7871e
 
 The Executive Overview dashboard provides senior management with a high level insight of business performance by answering the following key questions:
 
@@ -49,7 +48,7 @@ The Executive Overview dashboard provides senior management with a high level in
 
 **2. Sales & Customer Analysis** *(with Interactive Demo)*
 
-https://github.com/user-attachments/assets/65464a52-08f3-4232-a311-55eed2cab9af
+https://github.com/user-attachments/assets/9433442d-5620-4a18-81ab-57049aa9e2ac
 
 This dashboard moves beyond overall performance to focus on *who* is actually driving sales—customers, segments, account managers and geographic concentration—answering the questions a sales manager or director would ask next.
 
@@ -76,7 +75,7 @@ This dashboard moves beyond overall performance to focus on *who* is actually dr
 
 **3. Marketing Performance** *(with Interactive Demo)*
 
-https://github.com/user-attachments/assets/4cb6c8e6-c402-480f-8730-6c14bd8a6eea
+https://github.com/user-attachments/assets/1e758a58-f1d9-4b96-8aa1-70c1210afe0b
 
 This dashboard connects marketing activity to business outcomes—not just how much was spent or how many people saw an ad but whether that investment translated into revenue, answering the questions a marketing lead would ask about efficiency and return.
 
@@ -102,7 +101,7 @@ This dashboard connects marketing activity to business outcomes—not just how m
 
 **4. Inventory & Operations** *(with Interactive Demo)*
 
-https://github.com/user-attachments/assets/26f19661-9212-44be-ac4e-a35492520fca
+https://github.com/user-attachments/assets/ca5e7894-7f9a-4e1c-893b-e3033b6a5bf0
 
 This dashboard shifts from revenue to reliability; tracking how efficiently orders move from purchase to delivery and whether inventory levels are aligned with actual demand, answering the questions an operations or supply chain lead would ask.
 
