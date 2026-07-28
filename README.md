@@ -39,6 +39,11 @@ The Executive Overview dashboard provides senior management with a high level in
 - Monitor customer activity and order volume.
 - Prioritise products that drive the highest sales.
 
+**Key Improvement Areas**
+- Latin America is the lowest-performing region (78K) — worth investigating whether this is a market size issue or under-investment in sales/marketing there.
+- At 95.41% target achievement, the business is close but not consistently hitting target every month — reviewing which specific months fell short could reveal a seasonal pattern worth planning around.
+- Retail Partner is the lowest performing channel — worth assessing whether this reflects the channel's real potential or a lack of investment relative to Online Store and Wholesale.
+
 <hr>
 
 **2. Sales & Customer Analysis** *(with Interactive Demo)*
@@ -61,6 +66,11 @@ This dashboard moves beyond overall performance to focus on *who* is actually dr
 - Support regional expansion and sales planning using customer concentration by city.
 - Track sales trends to identify growth opportunities and seasonal patterns.
 
+**Key Improvement Areas**
+- Mid-Market customers drive the largest share of revenue (45%) — more than Enterprise, despite Enterprise often being assumed the priority segment in B2B. This may justify shifting account management focus toward Mid-Market retention and growth.
+- Sales performance varies meaningfully across account managers — the gap between the top performer (154K) and the lowest (88K) is worth investigating for coaching or territory-balance opportunities.
+- Revenue is concentrated among a small group of top customers relative to the full customer base — a retention risk worth addressing if even one or two of these accounts were to churn.
+  
 <hr>
 
 **3. Marketing Performance** *(with Interactive Demo)*
@@ -81,7 +91,12 @@ This dashboard connects marketing activity to business outcomes—not just how m
 - Identify campaigns worth repeating or scaling based on past performance.
 - Monitor cost efficiency (Cost per Order) to detect spend inefficiencies early.
 - Use CTR insights to evaluate campaign engagement and targeting effectiveness.
-
+  
+**Key Improvement Areas**
+- Spring Launch delivered a 5.09x ROAS while Black Friday returned only 0.37x despite comparable spend — suggesting budget could be reallocated toward proven high performing campaigns rather than assumed high traffic periods.
+- Paid Search and Social receive the largest share of marketing spend (28K and 27K) but spend alone doesn't confirm effectiveness — worth cross checking channel spend against actual ROAS to see if investment matches results.
+- Clicks and impressions both decline sharply from Spring Launch through Black Friday — a downward trend worth investigating, especially since it doesn't fully explain why ROAS also dropped for the lowest spending campaigns.
+  
 <hr>
 
 **4. Inventory & Operations** *(with Interactive Demo)*
@@ -103,6 +118,11 @@ This dashboard shifts from revenue to reliability; tracking how efficiently orde
 - Support inventory planning and purchasing decisions at the category level.
 - Balance inventory levels with customer demand to improve stock availability.
 - Set realistic customer delivery expectations using historical delivery performance.
+
+**Key Improvement Areas**
+- Apparel holds the highest inventory levels but shows comparatively lower sales while Electronics sells the most despite carrying less stock — a possible sign of overstocking in Apparel and understocking in Electronics that's worth reviewing with the buying team.
+- The order-to-delivery timeline shows ship-to-delivery (5.7 days) taking over twice as long as order-to-ship (2.8 days) — suggesting the shipping/carrier stage, not internal order processing, is the bigger bottleneck to address first.
+- Standard orders make up the majority of order volume (57.5%) over Express (42.5%) — worth confirming whether Express orders are actually being fulfilled meaningfully faster, to ensure the priority label reflects real service differentiation.
 
 <hr>
 
