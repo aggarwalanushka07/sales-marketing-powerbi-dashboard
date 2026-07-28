@@ -22,7 +22,8 @@ The model connects 6 fact tables (`fact_sales`, `fact_inventory`, `fact_order_pr
 
 **1. Executive Overview** *(with Interactive Demo)*
 
-<video src="https://github.com/user-attachments/assets/25721834-f7fd-4c48-9fdd-4026823d2d62" controls width="100%"> </video>
+<video src="https://github.com/user-attachments/assets/25721834-f7fd-4c48-9fdd-4026823d2d62" controls width="100%">
+</video>
 
 The Executive Overview dashboard provides senior management with a high level insight of business performance by answering the following key questions:
 
