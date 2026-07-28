@@ -11,7 +11,7 @@ Tools used: Power BI Desktop, DAX, Data Modeling (Star Schema)
 
 <hr>
 
-**<h3>Data Model:</h3>**
+**<h3>Data Model</h3>**
 <img width="1171" height="706" alt="data model" src="https://github.com/user-attachments/assets/cf08aaff-bebd-4f6b-ba86-add0b541fda9" />
 
 The model connects 6 fact tables (`fact_sales`, `fact_inventory`, `fact_order_process`, `fact_promotion_coverage`, `fact_campaign_spend`, `fact_sales_targets`) to 6 dimension tables (`dim_customer`, `dim_product`, `dim_geo`, `dim_date`, `dim_campaign`, `dim_order_flag`) in a standard star schema (also can be considered as galaxy schema), connected through one-to-many relationships. Working with 6 fact tables meant the model could easily have become difficult to navigate. To keep it clean and query friendly, I organized every measure into display folders by business area (`customer`, `sales`, `targets`, `marketing`, `operations`) and made sure every relationship was considered.
@@ -150,6 +150,8 @@ Measures are organized into display folders (customer, sales, targets, marketing
 <hr>
 
 **<h3>Repository Contents</h3>**
+| File | Description |
+|---|---|
 | `dashboard.pbix` | Full Power BI file (interactive) |
 | `dax_measures.md` | Complete DAX reference, organized by page |
 | `data_model_diagram.png` | Star schema relationship diagram |
