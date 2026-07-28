@@ -27,14 +27,10 @@ https://github.com/user-attachments/assets/25721834-f7fd-4c48-9fdd-4026823d2d62
 The Executive Overview dashboard provides senior management with a high level insight of business performance by answering the following key questions:
 
 **Business Questions Answered**
-- Are we achieving our sales targets each month?
-- How is overall sales performance changing over time?
-- How many orders have been placed and how many customers are actively purchasing?
-- Which product categories generate the highest sales?
-- Which customer regions contribute the most revenue?
-- Which sales channels perform the best?
-- Which products are our top revenue drivers?
-- How close are we to meeting our overall revenue target?
+- Are we on track to hit our sales targets or falling behind?
+- Which regions and channels are worth investing more in and which are underperforming?
+- Are our sales spread across many products or too dependent on a few?
+- Are our customers staying active or are we losing engagement over time?
 
 **Business Decisions Supported**
 - Evaluate whether sales targets are being achieved.
@@ -52,14 +48,10 @@ https://github.com/user-attachments/assets/65464a52-08f3-4232-a311-55eed2cab9af
 This dashboard moves beyond overall performance to focus on *who* is actually driving sales—customers, segments, account managers and geographic concentration—answering the questions a sales manager or director would ask next.
 
 **Business Questions Answered**
-- How are sales changing over time?
-- Who are our highest-value customers by sales?
-- How does revenue break down across customer segments (Enterprise, Mid-Market, SMB)?
-- Which account managers are generating the most revenue?
-- What is the average order value and average sales per customer?
-- How much product quantity has been sold?
-- What percentage of our customer base is actively purchasing?
-- In which cities is our customer base most concentrated?
+- Do we rely too heavily on a small number of big customers?
+- Is revenue spread evenly across account managers or concentrated in just a few?
+- Which customer segment should we focus on growing?
+- Are there cities with enough customers to justify expanding there?
 
 **Business Decisions Supported**
 - Identify and prioritize high-value customer accounts for retention efforts.
@@ -78,13 +70,10 @@ https://github.com/user-attachments/assets/4cb6c8e6-c402-480f-8730-6c14bd8a6eea
 This dashboard connects marketing activity to business outcomes—not just how much was spent or how many people saw an ad but whether that investment translated into revenue, answering the questions a marketing lead would ask about efficiency and return.
 
 **Business Questions Answered**
-- How much are we spending on marketing and how is spend trending over time?
-- What is our overall Click-Through Rate (CTR)?
-- How efficiently is our marketing investment converting into sales (ROAS)?
-- What is our average cost per order acquired through marketing?
-- How do clicks and impressions compare across individual campaigns?
-- Which channels receive the most marketing investment?
-- Which campaigns deliver the best return on ad spend?
+- Is our marketing spend actually paying off, or are some campaigns losing money?
+- Should we move budget away from campaigns or channels that aren't working?
+- Are we spending too much to win each order compared to what it's worth?
+- Is customer engagement (CTR) improving or dropping across campaigns?
 
 **Business Decisions Supported**
 - Reallocate budget toward high-ROAS campaigns and away from underperforming ones.
@@ -102,14 +91,10 @@ https://github.com/user-attachments/assets/26f19661-9212-44be-ac4e-a35492520fca
 This dashboard shifts from revenue to reliability; tracking how efficiently orders move from purchase to delivery and whether inventory levels are aligned with actual demand, answering the questions an operations or supply chain lead would ask.
 
 **Business Questions Answered**
-- How many units do we currently hold in inventory?
-- How long does it take, on average, for an order to go from purchase to delivery?
-- What percentage of orders are delivered on time?
-- How efficiently is inventory converting into actual sales (Sell-Through Rate)?
-- Which products carry the most inventory?
-- How are orders distributed across priority levels (Express vs. Standard)?
-- At which stage of the order process—ordering, shipping, or delivery—do delays occur?
-- Is inventory aligned with demand at the category level, or are we overstocked or understocked?
+- Where are we losing the most time in getting orders delivered?
+- Are we reliably meeting delivery expectations or is that a risk?
+- Are we stuck with too much stock in some categories and not enough in others?
+- Are high priority orders actually getting delivered faster or just labelled that way?
 
 **Business Decisions Supported**
 - Identify products at risk of overstocking or understocking based on sell-through rate.
